@@ -42,7 +42,7 @@ const Home = () => {
           </div>
           <div className="header-subtitle">
             <h2>Take the Stress Out of Resume Writing. Let AI take care of the hard work so you can focus on the job search.</h2>
-            <h2>How it works (READ THIS): Write out whatever you want on your resume. You can be as detailed or brief as you want, GPT will interpret it accordingly. If you want/don't want specific sections, just mention which. If you want certain sections to be detailed, just mention which. Basically, you can customise your resume exactly how you want it, and if you're not sure about certain parts, let GPT figure it out for you :) </h2>
+            <h2>How it works (READ THIS): Write out whatever you want on your resume. You can be as detailed or brief as you want, GPT will interpret it accordingly. If you want/don't want specific sections, just mention which. If you want certain sections to be detailed, just mention which. Basically, you can customise your resume exactly how you want it, and if you're not sure about certain parts, let GPT figure it out for you </h2>
           </div>
         </div>
         {/* Add this code here*/}
