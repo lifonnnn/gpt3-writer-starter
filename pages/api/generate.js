@@ -29,6 +29,7 @@ const generateAction = async (req, res) => {
     const secondPrompt = 
     `
     Take the following resume and reword it to make it sound more professional in the hopes that it will entice employers to hire the person with this experience and skills. For the 3-4 sub tasks of each entry in experience, don't just simply reword them, estimate the kind of work they have done and try and transform them into professionally written, actionable tasks written in the style of a resume or CV. It would be best if each point was an actionable task. List the sub tasks in order of importance.     
+    
     ${basePromptOutput.text}
   
     Here is the resume after being reworded:
